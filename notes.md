@@ -6,3 +6,6 @@
 
 * Bullet
 * List
+
+only recognizes file names so to create a new folder, create a file 
+learngit/folder/____
